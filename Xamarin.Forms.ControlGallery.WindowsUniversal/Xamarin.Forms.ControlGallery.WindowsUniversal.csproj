@@ -145,8 +145,8 @@
     <Content Include="Assets\Fonts\Lobster-Regular.ttf" />
     <None Include="project.json" />
     <Content Include="Properties\default.rd.xml" />
-    <Compile Include="..\Xamarin.Forms.ControlGallery.Windows\BrokenImageSourceHandler.cs" />
-    <Compile Include="..\Xamarin.Forms.ControlGallery.Windows\StringProvider.cs" />
+    <Compile Include="BrokenImageSourceHandler.cs" />
+    <Compile Include="StringProvider.cs" />
     <Compile Include="App.xaml.cs">
       <DependentUpon>App.xaml</DependentUpon>
     </Compile>
